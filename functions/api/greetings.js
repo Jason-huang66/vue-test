@@ -1,6 +1,6 @@
 // GET requests to /filename would return "Hello, world!"
 export const onRequestGet = () => {
-  return new Response("Hello, world!");
+  return new Response("Hello, world!?????????");
 };
 
 // POST requests to /filename with a JSON-encoded body would return "Hello, <name>!"
